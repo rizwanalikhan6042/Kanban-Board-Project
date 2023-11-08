@@ -1,1 +1,1 @@
-# Kanban-Board-Project
+This is Kanban Board project. Here we can do many operations like add task , delete task , update tasks , give priority to task and filter tasks based on priority. I used Javascript for this project functioning and for its dynamic behaviour and HTML and CSS for its basic structure and styling. 
